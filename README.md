@@ -70,7 +70,7 @@ Comparing the ROC curves of all models.
 
 ### 🔹 Confusion Matrix
 Illustrates true positive and false positive predictions.
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/saiqakhalid/diabetes-prediction-ML/blob/main/con%20matrix.png)
 
 ---
 
