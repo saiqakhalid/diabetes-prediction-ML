@@ -58,7 +58,7 @@ Distribution of diabetic vs non-diabetic cases.
 
 ### 🔹 Feature Importance
 Most influential features contributing to diabetes prediction.  
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](https://github.com/saiqakhalid/diabetes-prediction-ML/blob/main/feature%20importance.png)
 
 ---
 
