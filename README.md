@@ -54,7 +54,7 @@ Shows the relationship among different features.
 
 ### 🔹 Outcome Distribution
 Distribution of diabetic vs non-diabetic cases.  
-![Outcome Distribution](images/outcome_distribution.png)
+![Outcome Distribution](https://github.com/saiqakhalid/diabetes-prediction-ML/blob/main/Distribution%20of%20Diabetes%20outcom.png)
 
 ### 🔹 Feature Importance
 Most influential features contributing to diabetes prediction.  
