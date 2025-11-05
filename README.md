@@ -66,7 +66,7 @@ Most influential features contributing to diabetes prediction.
 
 ### 🔹 ROC Curve
 Comparing the ROC curves of all models.
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](https://github.com/saiqakhalid/diabetes-prediction-ML/blob/main/roc%20curve.png)
 
 ### 🔹 Confusion Matrix
 Illustrates true positive and false positive predictions.
