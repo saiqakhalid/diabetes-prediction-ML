@@ -50,7 +50,7 @@ In this project, various **machine learning models** were trained on the **PIMA 
 
 ### 🔹 Correlation Heatmap
 Shows the relationship among different features.  
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](https://github.com/saiqakhalid/diabetes-prediction-ML/blob/main/correlation%20Heatmap.png)
 
 ### 🔹 Outcome Distribution
 Distribution of diabetic vs non-diabetic cases.  
